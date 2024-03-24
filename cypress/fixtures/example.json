@@ -1,0 +1,39 @@
+{
+  "textBoxData": {
+    "fullName": "John Doe",
+    "email": "john.doe@example.com",
+    "currentAddress": "123 Main St",
+    "permanentAddress": "456 Elm St"
+  },
+  
+
+  "checkboxes": {
+    "home": "#tree-node-home",
+    "desktop": "#tree-node-desktop",
+    "documents": "#tree-node-documents",
+    "downloads": "#tree-node-downloads",
+    "workspace": "#tree-node-workspace",
+    "office": "#tree-node-office",
+    "public": "#tree-node-public",
+    "private": "#tree-node-private",
+    "classified": "#tree-node-classified",
+    "general": "#tree-node-general",
+    "react": "#tree-node-react",
+    "angular": "#tree-node-angular",
+    "vue": "#tree-node-vue",
+    "notes": "#tree-node-notes",
+    "commands": "#tree-node-commands",
+    "wordFile": "#tree-node-wordFile",
+    "excelFile": "#tree-node-excelFile"
+  },
+
+  
+  "radioButton": {
+    "yes": "#yesRadio",
+    "impressive": "#impressiveRadio",
+    "no": "#noRadio"
+  }
+
+
+  
+}
